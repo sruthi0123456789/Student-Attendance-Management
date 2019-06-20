@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Admin" max_length="40" name="x_341208_student_a_admin" type="collection">
+        <element label="Password" max_length="50" name="password" type="string"/>
+        <element label="User name" max_length="50" name="user_name" type="string"/>
+        <element label="User Type" max_length="50" name="user_type" type="string"/>
+    </element>
+</database>

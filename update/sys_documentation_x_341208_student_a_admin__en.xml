@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Admin" language="en" table="x_341208_student_a_admin">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Admin</label>
+            <language>en</language>
+            <name>x_341208_student_a_admin</name>
+            <plural>Admins</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-18 02:34:44</sys_created_on>
+            <sys_id>8e0465eedb4e7300c59acd3f2996197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Admin</sys_name>
+            <sys_package display_value="Student_Attendance_Management" source="x_341208_student_a">6a1161eedb0e7300c59acd3f299619b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student_Attendance_Management">6a1161eedb0e7300c59acd3f299619b6</sys_scope>
+            <sys_update_name>sys_documentation_x_341208_student_a_admin__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-18 02:34:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
